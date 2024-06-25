@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! 👋 My name is Shuaib, I'm currently an undergraduate student at UC Davis studying Computer Science and interested inthe applications of machine learning to improve and create new systems.
+Hey! 👋 My name is Shuaib, I'm currently an undergraduate student at UC Davis studying Computer Science and interested in the applications of machine learning/deep learning to improve and create new systems.
 
 Currently I am doing research under [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/) on web security and privacy. Some recent achievements include the submission of our [paper](https://arxiv.org/abs/2406.07647) to IEEE S&P Conference. I also am interning at [GEICO Tech](https://www.geico.com/tech/) where I am working on the development of a novel CRM tool which will allow customers to receive help from a virtual assistant through LLM integration.
 
