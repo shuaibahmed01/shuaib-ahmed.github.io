@@ -15,7 +15,7 @@ Currently I am doing research under [Zubair Shafiq](https://web.cs.ucdavis.edu/~
 
 ## Experience
 - Software Engineer at [GEICO Tech](https://www.geico.com/tech/) working to create CRM tool with LLM integration
-- Research Intern at [UC Davis](https://web.cs.ucdavis.edu/~zubair/) working in web security and privacy [Paper](https://arxiv.org/abs/2406.07647)
+- Research Intern at [UC Davis](https://web.cs.ucdavis.edu/~zubair/) working in web security and privacy. [[Paper](https://arxiv.org/abs/2406.07647)]
 - Software Developer at [Volt](https://www.textvolt.com/) working on full stack development application displaying company revenue statistics
 - Co-founder/Lead Developer at [TimeSync](https://github.com/shuaibahmed01/TimeSync) where I led full stack development
 
