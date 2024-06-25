@@ -1,4 +1,12 @@
-## About Me 
+---
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
 Hey! 👋 My name is Shuaib, I'm currently an undergraduate student at UC Davis studying Computer Science and interested inthe applications of machine learning to improve and create new systems.
 
